@@ -25,3 +25,5 @@ ngrok for https tunneling
 3. Open windows command prompt, go to that folder and run this command: ngrok http 80000
 
 NOTE: ngrok can timeout. you need to restart the session if you see session expired message.
+
+This project is a chatbot backend built with FastAPI that helps customers place and track food orders for roobi Eatery. It is designed to integrate with Dialogflow as a webhook, handle conversations, and store/manage orders in a MySQL database.
